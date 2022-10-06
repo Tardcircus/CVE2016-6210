@@ -7,3 +7,4 @@ A covert timing channel flaw was found in the way OpenSSH handled authentication
 
 
 This tool was created to take advantage of CVE2016-6210 to enumerate username on OpenSSH 7.2p2.
+I updated the deprecated modules to keep it going.
